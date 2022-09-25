@@ -1,14 +1,11 @@
 {
-    "name": "com.vitdeck.vitdeck",
-    "displayName": "VitDeck",
+    "name": "com.vitdeck.vitdeck-core",
+    "displayName": "VitDeck Core",
     "description": "VitDeck is a Unity Editor extension for supporting the creation of Unity contents.",
     "version": "2.0.0",
     "unity": "2019.4",
     "author": {
         "name": "VitDeck Team",
         "url": "https://github.com/VitDeck"
-    },
-    "dependencies": {
-        "com.vitdeck.vitdeck-core": "2.0.0"
     }
 }

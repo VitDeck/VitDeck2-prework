@@ -1,8 +1,7 @@
 {
-    "name": "VitDeck.GUI",
+    "name": "VitDeck.AdminGUI",
     "references": [
-        "GUID:360f09c672b8f83439e5b8fa6df140f3",
-        "GUID:84d08bb7b191779418d078b6cdcd0917"
+        "GUID:360f09c672b8f83439e5b8fa6df140f3"
     ],
     "includePlatforms": [
         "Editor"

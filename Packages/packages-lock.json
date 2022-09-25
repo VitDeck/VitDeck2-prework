@@ -69,6 +69,20 @@
       "version": "file:com.vitdeck.vitdeck",
       "depth": 0,
       "source": "embedded",
+      "dependencies": {
+        "com.vitdeck.vitdeck-core": "2.0.0"
+      }
+    },
+    "com.vitdeck.vitdeck-admin": {
+      "version": "file:com.vitdeck.vitdeck-admin",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.vitdeck.vitdeck-core": {
+      "version": "file:com.vitdeck.vitdeck-core",
+      "depth": 0,
+      "source": "embedded",
       "dependencies": {}
     },
     "com.unity.modules.ai": {
