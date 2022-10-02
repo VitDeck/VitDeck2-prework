@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using VitDeck.Localization;
 
 namespace VitDeck
 {
@@ -6,5 +7,12 @@ namespace VitDeck
     {
         [SerializeField]
         private string hash;
+
+        [SerializeField] private LocalizeDictionary localize;
+    }
+
+    public interface IWorkflowContext
+    {
+        
     }
 }
